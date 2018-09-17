@@ -1,0 +1,46 @@
+Response from machine 4 is:
+605
+This response contains 1 lines
+##########
+Response from machine 3 is:
+587
+This response contains 1 lines
+##########
+Response from machine 7 is:
+randomLogVM7.log:0
+vm7.log:604
+This response contains 2 lines
+##########
+Response from machine 9 is:
+randomLogVM9.log:0
+vm9.log:140925
+This response contains 2 lines
+##########
+Response from machine 2 is:
+891
+This response contains 1 lines
+##########
+Response from machine 10 is:
+randomLogVM10.log:0
+vm10.log:606
+This response contains 2 lines
+##########
+Response from machine 8 is:
+randomLogVM8.log:0
+vm8.log:615
+This response contains 2 lines
+##########
+Response from machine 5 is:
+randomLogVM5.log:0
+vm5.log:603
+This response contains 2 lines
+##########
+Response from machine 6 is:
+randomLogVM6.log:0
+vm6.log:616
+This response contains 2 lines
+##########
+Response from machine 1 is:
+142880
+This response contains 1 lines
+##########
